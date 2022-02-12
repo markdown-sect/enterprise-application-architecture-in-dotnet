@@ -3,3 +3,4 @@
 1. Code Contracts (предусловия и постусловия) / `.NET Framework Code Contracts`
 2. Pex (помощь в проведении тестирования и статический анализ кода для вычисления пограничных значений тестирования)
 3. LET (Layered Expression Trees)/LINQ to Objects
+4. RavenDB (база данных для хранения событий)
